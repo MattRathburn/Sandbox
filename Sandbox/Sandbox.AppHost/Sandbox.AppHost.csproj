@@ -13,10 +13,12 @@
 
   <ItemGroup>
     <PackageReference Include="Aspire.Hosting.AppHost" />
+    <PackageReference Include="Aspire.Hosting.PostgreSQL" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Sandbox.API\Sandbox.API.csproj" />
+    <ProjectReference Include="..\Sandbox.Migrations\Sandbox.Migrations.csproj" />
   </ItemGroup>
 
 </Project>

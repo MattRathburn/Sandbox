@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Directory.Packages.props = Directory.Packages.props
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox.Migrations", "Sandbox.Migrations\Sandbox.Migrations.csproj", "{8E154E66-6325-6571-2DB3-D1FB8F9B2190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{EF631729-1DBD-CCDE-8963-4F1031A9AA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF631729-1DBD-CCDE-8963-4F1031A9AA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF631729-1DBD-CCDE-8963-4F1031A9AA35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E154E66-6325-6571-2DB3-D1FB8F9B2190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E154E66-6325-6571-2DB3-D1FB8F9B2190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E154E66-6325-6571-2DB3-D1FB8F9B2190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E154E66-6325-6571-2DB3-D1FB8F9B2190}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +49,7 @@ Global
 		{C68C05F6-B634-91A9-2C17-8FD62331CBCD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{2698D7E8-0995-48B4-AED0-68393F4AD647} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{EF631729-1DBD-CCDE-8963-4F1031A9AA35} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{8E154E66-6325-6571-2DB3-D1FB8F9B2190} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0B54B4D6-AB6B-46F0-B274-31E0A6985928}
